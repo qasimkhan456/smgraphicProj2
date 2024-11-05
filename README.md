@@ -1,1 +1,1 @@
-# smgraphicProj2
+# Social Media Graphic
